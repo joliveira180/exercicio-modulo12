@@ -1,0 +1,45 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Lucia",
+        "empresa": "EBAC",
+        "endereco": "Av Paulista",
+        "numero": "2000",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "17803786",
+        "telefone": "11999999999",
+        "email": "email@dominio.com"
+
+    },
+
+    {
+        "nome": "Joana",
+        "sobrenome": "Oliveira",
+        "empresa": "Yaman",
+        "endereco": "Alameda Rio Negro",
+        "numero": "500",
+        "pais": "Brasil",
+        "cidade": "Barueru",
+        "estado": "São Paulo",
+        "cep": "56890870",
+        "telefone": "11999999999",
+        "email": "email1@dominio.com"
+    },
+
+    {
+        "nome": "Guilherme",
+        "sobrenome": "Caramel",
+        "empresa": "GComputadores",
+        "endereco": "Rua Eugene Carriere",
+        "numero": "2000",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "estado": "São Paulo",
+        "cep": "01929080",
+        "telefone": "11999999999",
+        "email": "email2@dominio.com"
+    }
+
+]
